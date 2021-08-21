@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keerthika1921
-- 👀 I’m interested in hardware based projects and networking
+- 👀 I’m interested in hardware based projects,machine learning
 - 🌱 I’m currently learning ardunio, raspberry bi
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
