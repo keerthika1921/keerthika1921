@@ -18,4 +18,5 @@
 I’m looking to collaborate on innovative projects!
 
 ## 📫 How to Reach Me
-Feel free to contact me via [your preferred contact method].
+Feel free to contact me via email keerthikapakkir.meet@gmail.com
+
